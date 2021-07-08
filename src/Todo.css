@@ -1,0 +1,10 @@
+.todo__list {
+  text-align: center;
+}
+
+.todo__listitemtext {
+  background-color: beige;
+}
+.todo__modalbuttons {
+  margin-top: 10px;
+}
