@@ -3,7 +3,7 @@
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
-Hosted URL : todo-app-87775.firebaseapp.com
+Hosted URL : https://todo-app-87775.firebaseapp.com
 
 ## Available Scripts
 
